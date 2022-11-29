@@ -85,9 +85,6 @@ class CLI
 
       # FIXME: add additional options here
 
-      opts.separator ""
-      opts.separator "General Options:"
-
       opts.on('-V','--version','Print the version') do
         puts "#{PROGRAM_NAME} #{VERSION}"
         exit
