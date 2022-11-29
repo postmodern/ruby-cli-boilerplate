@@ -13,6 +13,10 @@ implement a basic zero-dependency CLI for other Ruby libraries.
 
 ## Other CLI libraries
 
+If you want to build a CLI for a large Ruby app or framework, and
+don't mind adding an extra dependency for a CLI library/framework, I recommend
+the following Ruby CLI libraries:
+
 * [cmdparse](https://cmdparse.gettalong.org/)
 * [dry-cli](https://dry-rb.org/gems/dry-cli/)
 * [command_kit](https://github.com/postmodern/command_kit.rb#readme)
