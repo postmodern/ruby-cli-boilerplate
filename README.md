@@ -10,3 +10,9 @@ implement a basic zero-dependency CLI for other Ruby libraries.
 * Catches any other exceptions and prints a bug report.
 * Defines the CLI as a class, making it easy to test.
 * Comes with boilerplate RSpec tests.
+
+## Other CLI libraries
+
+* [cmdparse](https://cmdparse.gettalong.org/)
+* [dry-cli](https://dry-rb.org/gems/dry-cli/)
+* [command_kit](https://github.com/postmodern/command_kit.rb#readme)
